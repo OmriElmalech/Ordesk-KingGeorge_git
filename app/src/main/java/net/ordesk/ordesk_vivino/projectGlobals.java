@@ -30,7 +30,7 @@ import java.util.List;
 import java.util.concurrent.ExecutionException;
 
 public class projectGlobals extends Application{
-
+//jnj
     private int index = 0;
     db_base db_base = new db_base();
     item[] global_menu_items = db_base.importMenuItems();
